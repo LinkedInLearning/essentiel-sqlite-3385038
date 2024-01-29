@@ -483,5 +483,7 @@ node_modules
 .tmp
 npm-debug.log
 
-# Python
+# Rudi
 .venv/
+sqlean/
+*.sqlite
