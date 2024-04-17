@@ -22,8 +22,8 @@ Cette formation aborde tout ce que vous devez connaître pour utiliser SQLite au
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-sqlite
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEouFIeNR6esw/learning-public-crop_675_1200/0/1712828654937?e=2147483647&v=beta&t=qpqsgDy4leR8N5pML4EfzjrrHIG5C64hJMdGFk7-W_o
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/rudi-bruchez
 
 [1]: # (End of FR-Instruction ###############################################################################################)
