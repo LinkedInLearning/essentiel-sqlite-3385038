@@ -6,6 +6,8 @@ Ce dossier Repository est lié au cours `L'essentiel de SQLite`. Le cours entier
 
 Cette formation aborde tout ce que vous devez connaître pour utiliser SQLite au quotidien dans vos projets de développement. Les deux derniers chapitres abordent un exemple concret avec le langage Python.
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
+
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 

@@ -12,7 +12,11 @@
       },
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
-        "linkedinlearning.linkedinlearning-vscode-theme"
+        "linkedinlearning.linkedinlearning-vscode-theme",
+        "developer-tools.vscode-sqlite",
+        "ms-vscode.mssql",
+        "eamodio.gitlens", 
+        "humao.rest-client"  
       ]
     }
   },
